@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "280400122922",
+    "firebase_url": "https://aagam-demo-app.firebaseio.com",
+    "project_id": "aagam-demo-app",
+    "storage_bucket": "aagam-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280400122922:android:1d400c82deb96246",
+        "android_client_info": {
+          "package_name": "com.geek.aagamshah.lolchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280400122922-i2vvr7epm2gkkup1qimmg7e1r1ko60up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-pwj88IGxPc0nWYwskEDwfUKdx1pAbEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
