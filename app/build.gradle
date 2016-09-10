@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.geek.aagamshah.lolchef"
+        applicationId "com.geek.aagamshah.project"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

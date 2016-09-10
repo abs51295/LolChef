@@ -1,4 +1,4 @@
-package com.geek.aagamshah.lolchef;
+package com.geek.aagamshah.project;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

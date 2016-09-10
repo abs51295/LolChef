@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:280400122922:android:1d400c82deb96246",
+        "mobilesdk_app_id": "1:280400122922:android:960820eb54985f8c",
         "android_client_info": {
-          "package_name": "com.geek.aagamshah.lolchef"
+          "package_name": "com.geek.aagamshah.project"
         }
       },
       "oauth_client": [

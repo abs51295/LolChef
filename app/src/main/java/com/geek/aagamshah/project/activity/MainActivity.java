@@ -1,4 +1,4 @@
-package com.geek.aagamshah.lolchef.activity;
+package com.geek.aagamshah.project.activity;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -13,8 +13,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.geek.aagamshah.lolchef.R;
-import com.geek.aagamshah.lolchef.services.MyService;
+import com.geek.aagamshah.project.R;
+import com.geek.aagamshah.project.services.MyService;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.PendingResult;
